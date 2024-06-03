@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/reyyynad" target="blank"><img src="https://img.shields.io/twitter/follow/reyyynad?logo=twitter&style=for-the-badge" alt="reyyynad" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,and Figma**
+- 🌱 I’m currently learning **Flutter, and Figma**
 
 - 📫 How to reach me **renad.elsafi@outlook.com**
 
