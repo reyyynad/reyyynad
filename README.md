@@ -1,26 +1,27 @@
-<h1 align="center">Hi 👋, I'm Renad</h1>
-<h3 align="center">A passionate Computer Science Student at King Fahd University of Petroleum and Minerals.</h3>
-<p align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/> </p>
+# 💫 About Me:
+ Hi 👋, I'm Renad<br><br>🌱 I’m currently learning Flutter, and Figma<br>📫 How to reach me: renad.elsafi@outlook.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyyynad&label=Profile%20views&color=0e75b6&style=flat" alt="reyyynad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/reyyynad" target="blank"><img src="https://img.shields.io/twitter/follow/reyyynad?logo=twitter&style=for-the-badge" alt="reyyynad" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/renad-elsafi-a38a61262/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reyyynad) 
 
-- 🌱 I’m currently learning **Flutter, and Figma**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Reyyynad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Reyyynad&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyyynad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **renad.elsafi@outlook.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Reyyynad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/reyyynad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reyyynad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/renad elsafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renad elsafi" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Reyyynad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyyynad&show_icons=true&locale=en&layout=compact" alt="reyyynad" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Reyyynad&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyyynad&show_icons=true&locale=en" alt="reyyynad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyyynad&" alt="reyyynad" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
