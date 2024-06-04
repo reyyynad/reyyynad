@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Renad!<br><br>🌱 I'm currently learning Flutter<3<br>📫 How to reach me: renad.elsafi@outlook.com
+ Hi 👋, I'm Renad!<br><br>🌱 I'm currently learning Flutter:)<br>📫
 
 
 ## 🌐 Socials:
