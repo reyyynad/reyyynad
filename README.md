@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Renad!<br><br>🌱 I'm currently learning Flutter:)<br>
+ Hi 👋, I'm Renad!<br><br> A passionate Computer Science Student at King Fahd University of Petroleum and Minerals:)<br>
 
 
 ## 🌐 Socials:
