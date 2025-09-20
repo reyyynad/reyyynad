@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Renad!<br><br>A passionate Computer Science Student at King Fahd University of Petroleum and Minerals:)
+Hi 👋, I'm Renad!<br><br>A passionate Computer Science student at KFUPM with a passion for data science, and mobile app development. I enjoy turning ideas into user-centered solutions—whether it's building intuitive apps, or analyzing complex datasets with Python.
+
+
 
 
 ## 🌐 Socials:
