@@ -2,7 +2,7 @@
 Hi 👋, I'm Renad!<br><br>
 A passionate Computer Science student at KFUPM with a passion for data science, and mobile app development. I enjoy turning ideas into user-centered solutions—whether it's building intuitive apps, or analyzing complex datasets with Python.
 
-🌐 Check out my Portfolio: [Renad Elsafi Portfolio](https://reyyynad.github.io/Renad_Elsafi_Portfolio/)
+Check out my Portfolio: [Renad Elsafi Portfolio](https://reyyynad.github.io/Renad_Elsafi_Portfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renad-elsafi-a38a61262/) 
