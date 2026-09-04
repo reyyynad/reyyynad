@@ -78,7 +78,15 @@ I'd love to build.
 ![Statistics](https://img.shields.io/badge/Statistics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 
-<br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br>
 
+<br>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    height="40"
+    alt="Kyubey animation"
+  />
+</div>
+
+<br><br>
