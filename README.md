@@ -19,7 +19,7 @@
 🎓 Senior Computer Science Student @ KFUPM
 📊 Data Science & Analytics
 💻 Software Engineering • Mobile Development
-🎹 Code • Data • Anine • Coffee
+🎹 Code • Data • Anime • Coffee
 </pre>
 
 <br>
