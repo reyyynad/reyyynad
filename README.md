@@ -77,3 +77,8 @@ I'd love to build.
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
+
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
+
