@@ -7,7 +7,7 @@ A senior Computer Science student at KFUPM, with a concentration in Data Science
 When I'm not coding, you'll find me at the piano, watching anime, exploring new coffee spots, or sketching ideas for the next project I'd love to build.
 
 <p align="center">
-  <img src="assets/renad-manga.png" alt="Manga illustration of Renad coding" width="680">
+  <img width="318" height="486" alt="Screenshot 2026-09-04 at 8 38 12 PM" src="https://github.com/user-attachments/assets/18f8b2c8-f18a-4910-acc1-cf12c24c75e2" />
 </p>
 
 **Check out my portfolio:** [Renad Elsafi Portfolio](https://www.renadelsafi.com/)
@@ -49,12 +49,4 @@ When I'm not coding, you'll find me at the piano, watching anime, exploring new 
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-111111?style=for-the-badge&logo=plotly&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-### ✍️ Random Dev Quote
-
-![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-[![Profile views](https://visitcount.itsvg.in/api?id=reyyynad&icon=0&color=5)](https://visitcount.itsvg.in)
 
