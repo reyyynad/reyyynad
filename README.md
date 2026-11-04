@@ -19,7 +19,7 @@
 🎓 Senior Computer Science Student @ KFUPM
 📊 Data Science & Analytics
 💻 Software Engineering • Mobile Development
-🎹 Code • Data • Anime • Coffee
+🎹 Code ♥ Data ♥ Anime ♥ Baking ♥ Coffee
 </pre>
 
 <br>
@@ -28,11 +28,11 @@ A senior Computer Science student at KFUPM, with a concentration in
 Data Science and Analytics, passionate about building meaningful digital
 experiences. My interests span data science, software engineering, and
 mobile development, but what drives me most is creating technology that
-makes life simpler for people.
+makes life simpler for people
 
 When I'm not coding, you'll find me at the piano, watching anime,
-exploring new coffee spots, or sketching ideas for the next project
-I'd love to build.
+baking cookies, or sketching ideas for the next project
+I'd ♥ to build.
 
 <br><br>
 
