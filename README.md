@@ -32,7 +32,7 @@ makes life simpler for people
 
 When I'm not coding, you'll find me at the piano, watching anime,
 baking cookies, or sketching ideas for the next project
-I'd ♥ to build.
+I'd love to build ♥
 
 <br><br>
 
