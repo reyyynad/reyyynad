@@ -1,4 +1,12 @@
 <div align="center">
+  <img
+    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    height="40"
+    alt="Kyubey animation"
+  />
+</div>
+
+<div align="center">
 
 <img
   src="https://github.com/user-attachments/assets/18f8b2c8-f18a-4910-acc1-cf12c24c75e2"
